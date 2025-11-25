@@ -1,4 +1,4 @@
-# Fds-answer
+# Fds-Question answer
 Great — I’ll answer **all 20 lab questions** from your uploaded exam paper. For each coding question I’ll give a compact **Aim**, a short **Algorithm**, a clean **Program** (ready-to-run Python with NumPy / Pandas), an example **Result** (what it prints), and a few **Viva-voce** questions+answers you can prepare. For the longer data-analysis tasks I’ll give a clear plan and runnable code snippets you can run on the datasets.
 
 ---
